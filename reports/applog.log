@@ -1,0 +1,42 @@
+14/01/21 05:11:44 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginEmailAdressET
+14/01/21 05:11:45 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginPasswordET
+14/01/21 05:11:46 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+14/01/21 05:11:46 PM Thursday - BasePage - INFO : login Successful
+14/01/21 06:07:12 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginEmailAdressET
+14/01/21 06:07:13 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginPasswordET
+14/01/21 06:07:13 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+14/01/21 06:07:13 PM Thursday - BasePage - INFO : login Successful
+14/01/21 09:21:42 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginEmailAdressET
+14/01/21 09:21:43 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginPasswordET
+14/01/21 09:21:43 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+14/01/21 09:21:43 PM Thursday - BasePage - INFO : login Successful
+14/01/21 09:24:15 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginEmailAdressET
+14/01/21 09:24:16 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginPasswordET
+14/01/21 09:24:17 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+14/01/21 09:24:17 PM Thursday - BasePage - INFO : login Successful
+14/01/21 09:24:37 PM Thursday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : android:id/button2
+15/01/21 03:48:04 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/ssoRb
+15/01/21 03:48:30 PM Friday - BasePage - INFO : Element not clickable with locator typeidwith the locator valuecom.assetpanda:id/LoginEmailAdressET
+15/01/21 03:48:55 PM Friday - BasePage - INFO : Element not clickable with locator typeidwith the locator valuecom.assetpanda:id/LoginPasswordET
+15/01/21 03:48:55 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+15/01/21 03:48:55 PM Friday - BasePage - INFO : login Successful
+15/01/21 03:49:41 PM Friday - BasePage - INFO : Element not clickable with locator typeidwith the locator valueandroid:id/button2
+15/01/21 03:54:16 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/ssoRb
+15/01/21 03:54:17 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/loginSSOET
+15/01/21 03:56:09 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/ssoRb
+15/01/21 03:56:10 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/loginSSOET
+15/01/21 03:57:51 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/ssoRb
+15/01/21 03:57:53 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/loginSSOET
+15/01/21 03:57:53 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+15/01/21 03:57:53 PM Friday - BasePage - INFO : login Successful
+15/01/21 03:57:55 PM Friday - BasePage - INFO : Screenshot is saved on ../screenshots/sso_15_01_21_15_57_53.png
+15/01/21 05:22:54 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/ssoRb
+15/01/21 05:22:55 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/loginSSOET
+15/01/21 05:22:56 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+15/01/21 05:22:56 PM Friday - BasePage - INFO : login Successful
+15/01/21 05:23:18 PM Friday - BasePage - INFO : Screenshot is saved on ../screenshots/sso_15_01_21_17_23_16.png
+15/01/21 05:23:43 PM Friday - BasePage - INFO : Element not clickable with locator typeidwith the locator valuecom.assetpanda:id/LoginEmailAdressET
+15/01/21 05:24:09 PM Friday - BasePage - INFO : Element not clickable with locator typeidwith the locator valuecom.assetpanda:id/LoginPasswordET
+15/01/21 05:24:09 PM Friday - BasePage - INFO : Clicked on element with the locator typeidwith the locator value : com.assetpanda:id/LoginBtn
+15/01/21 05:24:09 PM Friday - BasePage - INFO : login Successful
+15/01/21 05:24:54 PM Friday - BasePage - INFO : Element not clickable with locator typeidwith the locator valueandroid:id/button2
